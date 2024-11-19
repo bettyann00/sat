@@ -1,3 +1,4 @@
 # sat
-This is my practice repository<r>
+This is my practice repository/n
+
 Author=Betty James
